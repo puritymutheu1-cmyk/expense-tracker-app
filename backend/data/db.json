@@ -1,0 +1,47 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Admin User",
+      "email": "admin@spendwise.com",
+      "password": "$2a$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi",
+      "role": "admin"
+    },
+    {
+      "id": 2,
+      "name": "John Doe",
+      "email": "john@example.com",
+      "password": "$2a$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi",
+      "role": "user"
+    },
+    {
+      "id": 3,
+      "name": "joel kirapash",
+      "email": "joelkirapash@gmail.com",
+      "password": "$2a$10$U5IpsnTKMk40UkdpnX6OnOm0f8pbROJLIkUqW2LOXm0lG2Og.x4JG",
+      "role": "user"
+    },
+    {
+      "id": 4,
+      "name": "joel kirapash",
+      "email": "waynekipoo@gmail.com",
+      "password": "$2a$10$L.fdZDB3jRH3e6riz3SN6uHXy8u4TTWnPFivPTarJWyONvM7GVu3m",
+      "role": "user"
+    },
+    {
+      "id": 5,
+      "name": "james kirapash",
+      "email": "jameskirapash97@gmail.com",
+      "password": "$2a$10$HtSFLkIoXOU4EDqgBTLwDO2wcbQE.waVQT9xvXCRTEjyPHibAwdQ.",
+      "role": "user"
+    },
+    {
+      "id": 6,
+      "name": "Joel",
+      "email": "joel@test.com",
+      "password": "$2a$10$CY.ynIeqnYh5vjgsQPt8I.wV7D1gCkISWWR/1rKpW4G0iGz.vkGpu",
+      "role": "user"
+    }
+  ],
+  "transactions": []
+}
